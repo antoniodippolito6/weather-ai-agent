@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "compatibility_date": "2025-01-28",
+  "ai": {
+    "binding": "AI"
+  },
+  "main": "src/index.ts"
+}

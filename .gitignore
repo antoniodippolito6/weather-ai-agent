@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+dist
+.svelte-kit
+.wrangler
+.env
+.dev.vars
+pnpm-lock.yaml

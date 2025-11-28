@@ -1,0 +1,9 @@
+/*
+ * app.css
+ * Punto di ingresso per gli stili globali.
+ * Qui vengono iniettate le direttive di Tailwind CSS.
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
